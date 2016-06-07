@@ -25,8 +25,8 @@ class ChannelViewController: UIViewController {
  
     //Check if input field has error
     func inputFieldHasError(text: String) -> Bool {
-        if text.characters.count > 7000 {
-            showAlert("Channel name cannot be more than 7000 characters.")
+        if text.characters.count > 80 {
+            showAlert("Channel name cannot be more than 80 characters.")
             return true
         } else if text.hasSuffix("-deleted") {
             showAlert("Channel name cannot end in -deleted.")
