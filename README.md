@@ -2,7 +2,7 @@
 
 A collaborative to-do app, written in Swift for iOS. It uses PubNub's global data stream network to make this a realtime app.
 
-A user may create or subscribe to a to-do list, view all of the lists they are subscribed to, view all the tasks in a list and create or delete tasks from a list in realtime. This app has been written for a tutorial, **Collaborative to-do app w/ Swift (link TBD)**. 
+A user may create or subscribe to a to-do list, view all of the lists they are subscribed to, view all the tasks in a list and create or delete tasks from a list in realtime. This app has been written for a tutorial, https://www.pubnub.com/blog/2016-06-21-ios-to-do-app-tutorial-built-using-swift/.
 
 
 Add gif here
